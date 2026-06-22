@@ -12,13 +12,13 @@ from .model_manager import ModelManager
 def print_banner():
     """Print GOODIE banner"""
     banner = r"""
-    ╔═══════════════════════════════════════════════════════╗
-    ║                                                       ║
-    ║           GOODIE AI ASSISTANT v1.0.0                 ║
-    ║     Your Professional Desktop Companion              ║
-    ║          Powered by Qwen3 4B GGUF                    ║
-    ║                                                       ║
-    ╚═══════════════════════════════════════════════════════╝
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║                                                               ║
+    ║           GOODIE AI ASSISTANT v1.0.0                         ║
+    ║     Your Professional Desktop Companion                      ║
+    ║          Powered by Qwen3 4B GGUF                            ║
+    ║                                                               ║
+    ╚═══════════════════════════════════════════════════════════════╝
     """
     print(banner)
 
